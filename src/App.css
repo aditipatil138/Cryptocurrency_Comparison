@@ -1,0 +1,72 @@
+body {
+  background: #f1f1f1;
+  padding: 50px;
+}
+
+div#title-div {
+  background: lightyellow;
+  /* top right bottom left */
+  margin: 0 auto 4px auto;
+  width: 70%;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgray;
+}
+
+div#cryptocurrency-div {
+  background: white;
+  /* top right bottom left */
+  margin: 0 auto 4px auto;
+  width: 70%;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgray;
+}
+
+div#recommendation-div {
+  background: lightblue;
+  /* top right bottom left */
+  margin: 0 auto 4px auto;
+  width: 70%;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgray;
+}
+
+div#title {
+  text-align: center;
+}
+
+span.left-title {
+  float: left;
+  font: caption;
+  font-weight: bold;
+  width: 33.33333%;
+}
+
+span.center-title {
+  text-align: center;
+  font: caption;
+  font-weight: bold;
+  width: 33.33333%;
+}
+
+span.right-title {
+  float: right;
+  width: 33.33333%;
+  font: caption;
+  text-align: right;
+}
+
+span.left {
+  float: left;
+  width: 33.33333%;
+}
+
+span.center {
+  text-align: center;
+  width: 33.33333%;
+}
+
+span.right {
+  float: right;
+  width: 33.33333%;
+  text-align: right;
+}
